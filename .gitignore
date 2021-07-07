@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 .meta
+AndroidProject/.idea
+local.properties
